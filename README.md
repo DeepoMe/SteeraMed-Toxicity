@@ -12,7 +12,7 @@
 [![DeepoMe](https://img.shields.io/badge/Organization-DeepoMe-blue)](https://steeramed.com)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://steeramed.com/en/Long-Tail-Pharmacovigilance/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Preprint-forthcoming-orange)]()
+[![Paper](https://img.shields.io/badge/Preprint-ResearchGate-orange)](https://www.researchgate.net/publication/415227763_Long-Tail_Pharmacovigilance_The_Semaglutide-NAION_Case_and_a_Pilot_Benchmark_for_Language_Models)
 
 </div>
 
@@ -103,6 +103,7 @@ evaluation.
 ## Links
 
 - **[Interactive demo](https://steeramed.com/en/Long-Tail-Pharmacovigilance/)** — explore the RARE-Bench pilot results interactively
+- **[Paper (ResearchGate version)](https://www.researchgate.net/publication/415227763_Long-Tail_Pharmacovigilance_The_Semaglutide-NAION_Case_and_a_Pilot_Benchmark_for_Language_Models)** — preprint version; DOI to follow on preprints.org
 - **[SteeraMed](https://steeramed.com)** — the broader framework
 - **[SteeraMed-RootMap](https://github.com/DeepoMe/SteeraMed-RootMap)** — companion dependency-map repository
 - **[SteeraMed-MorbiMap](https://github.com/DeepoMe/SteeraMed-MorbiMap)** — companion candidate-ranking repository

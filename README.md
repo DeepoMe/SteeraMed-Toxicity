@@ -10,6 +10,7 @@
 **[SteeraMed](https://steeramed.com) 框架的模块**
 
 [![DeepoMe](https://img.shields.io/badge/Organization-DeepoMe-blue)](https://steeramed.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://steeramed.com/en/Long-Tail-Pharmacovigilance/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/Preprint-forthcoming-orange)]()
 
@@ -101,6 +102,7 @@ evaluation.
 
 ## Links
 
+- **[Interactive demo](https://steeramed.com/en/Long-Tail-Pharmacovigilance/)** — explore the RARE-Bench pilot results interactively
 - **[SteeraMed](https://steeramed.com)** — the broader framework
 - **[SteeraMed-RootMap](https://github.com/DeepoMe/SteeraMed-RootMap)** — companion dependency-map repository
 - **[SteeraMed-MorbiMap](https://github.com/DeepoMe/SteeraMed-MorbiMap)** — companion candidate-ranking repository
@@ -147,6 +149,11 @@ harm 排序，并为临床复核标记信号？
 ## 仓库状态
 
 > **状态**：本仓库目前提供项目概述与主要发现。冻结协议（含变更与勘误日志）、抽样列表、原始模型输出、评分与富集代码及复现脚本将分阶段在此发布：阶段 1——预印本公开发布时（冻结协议与抽样列表）；阶段 2——社区反馈后（原始输出、代码与复现脚本）。发布前可向作者合理索取。
+
+## 链接
+
+- **[交互式演示](https://steeramed.com/en/Long-Tail-Pharmacovigilance/)** — 在线交互探索 RARE-Bench 试点结果
+- **[SteeraMed](https://steeramed.com)** — 上层框架
 
 ## 许可
 
